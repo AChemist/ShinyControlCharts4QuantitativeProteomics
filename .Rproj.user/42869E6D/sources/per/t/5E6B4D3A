@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532037934546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3601118522",
+    "id" : "5E6B4D3A",
+    "lastKnownWriteTime" : 1532037956,
+    "last_content_update" : 1532037956445,
+    "path" : "~/GitHub/ShinyControlCharts4QuantitativeProteomics/test3/app.R",
+    "project_path" : "test3/app.R",
+    "properties" : {
+        "cursorPosition" : "16,5",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
